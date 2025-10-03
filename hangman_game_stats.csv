@@ -1,0 +1,6 @@
+Guess,Result,Attempts Left,Current Word,Game Outcome
+a,Correct,6,_a___,Win
+n,Correct,6,_an__,Win
+g,Correct,6,_ang_,Win
+o,Correct,6,_ango,Win
+m,Correct,6,mango,Win
